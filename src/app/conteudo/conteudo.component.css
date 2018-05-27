@@ -1,0 +1,9 @@
+.container {
+    min-width: 1000px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.jumbotron{
+    min-height: 450px;
+ }
